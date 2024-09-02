@@ -29,11 +29,12 @@ PID,IID,NAME,PRICE,EXPDATE,QTY
 1,11,Shampoo,100,14-03-2025,60
 
 
-## Instructions
+## Setup and Installation
 
-1. **Clone the repository** to your local machine.
-2. **Compile the code** using a C compiler.
-3. **Run the executable** to start the supermarket management system.
+1. **Clone the repository** git clone https://github.com/Maitri-Shekhda/supermarket-management-multilist-dsa.git
+cd supermarket_managament-multilist-dsa
+2. **Compile the code** gcc final.c -o inventory_system.
+3. **Run the executable** ./inventory_system
 4. **Follow the on-screen instructions** to interact with the system.
 
 ## Contributors
