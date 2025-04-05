@@ -37,10 +37,6 @@ cd supermarket_managament-multilist-dsa
 3. **Run the executable** ./inventory_system
 4. **Follow the on-screen instructions** to interact with the system.
 
-## Contributors
-
-Maitri
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
